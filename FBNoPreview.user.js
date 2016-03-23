@@ -5,6 +5,8 @@
 // @namespace      JustJustin
 // @author         JustJustin
 // @description    Stops facebook from inserting previews in chat.
+// @include        http://www.facebook.com*
+// @include        https://www.facebook.com*
 // @include        http://facebook.com*
 // @include        https://facebook.com*
 // @downloadURL    https://github.com/JustJustin/FBNoPreview/raw/master/FBNoPreview.user.js
